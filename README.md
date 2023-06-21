@@ -1,5 +1,7 @@
 # add-to-cart
 
+Live site: https://add-to-cart-pastel.netlify.app
+
 Quick start:
 
 ```
